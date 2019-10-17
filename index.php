@@ -119,7 +119,8 @@
 		    <div class="bullets">
 	    		<span class="entypo-record" data-cible="0"></span>
 	    		<span class="entypo-record" data-cible="1"></span>
-	    		<span class="entypo-record" data-cible="2"></span>
+				<span class="entypo-record" data-cible="2"></span>
+				<span class="entypo-record" data-cible="2"></span>
 		    </div>
 		</section>
 	</div>
